@@ -1,11 +1,16 @@
 _repo: Music-and-Its-Masters_54999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54999-h/images/cover.jpg
 creator:
   author:
     agent_name: Boise, O. B. (Otis Bardwell)
     gutenberg_agent_id: '48145'
     url: http://www.gutenberg.org/2009/agents/48145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54999#Music-and-Its-Masters
 gutenberg_issued: '2017-06-28'
 gutenberg_type: Text
 identifiers:
